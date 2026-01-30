@@ -148,7 +148,7 @@
 }
 .form input , .form .textarea {
     width: 100%;
-    outline: transparent;
+    border: 2px solid transparent;
     outline: transparent;
     padding: 1.3rem;
     border-radius: .4rem;
@@ -347,4 +347,5 @@
   .form {
         width: 300px;
     }
+
 }
